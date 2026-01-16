@@ -1,2 +1,2 @@
-# testing-GitHub
-testing github Repo
+# EC2-nginx-gym-website-deployemnet
+Project AWS
